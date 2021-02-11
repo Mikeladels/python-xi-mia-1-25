@@ -1,5 +1,4 @@
 #michelle adelia suwarno / xi mia 1 / 25
-#import madiri script modul
 
 def fib(n) : #write fibonacci series up to n
     a, b = 0, 1
